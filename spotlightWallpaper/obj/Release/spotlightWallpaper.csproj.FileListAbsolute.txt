@@ -1,0 +1,15 @@
+D:\workspace\vs\spotlightWallpaper\spotlightWallpaper\spotlightWallpaper\bin\Release\spotlightWallpaper.exe.config
+D:\workspace\vs\spotlightWallpaper\spotlightWallpaper\spotlightWallpaper\bin\Release\spotlightWallpaper.exe
+D:\workspace\vs\spotlightWallpaper\spotlightWallpaper\spotlightWallpaper\bin\Release\spotlightWallpaper.pdb
+D:\workspace\vs\spotlightWallpaper\spotlightWallpaper\spotlightWallpaper\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\workspace\vs\spotlightWallpaper\spotlightWallpaper\spotlightWallpaper\obj\Release\spotlightWallpaper.csproj.ResolveComReference.cache
+D:\workspace\vs\spotlightWallpaper\spotlightWallpaper\spotlightWallpaper\obj\Release\App.g.cs
+D:\workspace\vs\spotlightWallpaper\spotlightWallpaper\spotlightWallpaper\obj\Release\spotlightWallpaper_MarkupCompile.cache
+D:\workspace\vs\spotlightWallpaper\spotlightWallpaper\spotlightWallpaper\obj\Release\spotlightWallpaper_MarkupCompile.lref
+D:\workspace\vs\spotlightWallpaper\spotlightWallpaper\spotlightWallpaper\obj\Release\spotlightWallpaper.g.resources
+D:\workspace\vs\spotlightWallpaper\spotlightWallpaper\spotlightWallpaper\obj\Release\spotlightWallpaper.Properties.Resources.resources
+D:\workspace\vs\spotlightWallpaper\spotlightWallpaper\spotlightWallpaper\obj\Release\spotlightWallpaper.csproj.GenerateResource.Cache
+D:\workspace\vs\spotlightWallpaper\spotlightWallpaper\spotlightWallpaper\obj\Release\spotlightWallpaper.exe
+D:\workspace\vs\spotlightWallpaper\spotlightWallpaper\spotlightWallpaper\obj\Release\spotlightWallpaper.pdb
+D:\workspace\vs\spotlightWallpaper\spotlightWallpaper\spotlightWallpaper\obj\Release\spotlightWallpaper.g.cs
+D:\workspace\vs\spotlightWallpaper\spotlightWallpaper\spotlightWallpaper\obj\Release\spotlightWallpaper.baml
