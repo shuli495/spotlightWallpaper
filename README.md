@@ -1,5 +1,5 @@
 # spotlightWallpaper
-![image](https://raw.githubusercontent.com/shuli495/resource/master/spotlightWallpaper.png)
+![image](https://raw.githubusercontent.com/shuli495/resource/master/spotlightWallpaper/spotlightWallpaper.png)
 
 **支持条件：**
 1. win10系统
